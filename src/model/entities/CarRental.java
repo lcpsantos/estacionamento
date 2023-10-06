@@ -39,9 +39,6 @@ public class CarRental {
         return vehicle;
     }
 
-    public void setVehicle(Vehicle vehicle) {
-        this.vehicle = vehicle;
-    }
 
     public Invoice getInvoice() {
         return invoice;
